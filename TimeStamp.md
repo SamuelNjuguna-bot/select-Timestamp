@@ -126,6 +126,14 @@ Example
 
 `SELECT EXTRACT('month' FROM now());`
 
+Output:
 
+```sql
+ extract
+---------
+       3
+(1 row)
+
+```
 
 
