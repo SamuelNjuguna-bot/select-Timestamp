@@ -1,22 +1,6 @@
 # Select Statement
 This statement is used to retrieve values from columns and rows from a table .
 The statement can also retrieve values from an empty table.
-The statement has the following format.
-
-```Sql
-
-SELECT variable FROM tablename WHERE condition
-
-```
-
-`SELECT`: This retrieves value 
-
-
-` FROM`: Specifies which table are we selecting from
-
-
-`WHERE` : Adds a condtion to the statement that if truthy returns the ___`variable`___
-
 We can look at some commonly used Select Statements
 
 We will be referencing from this table called MyCart
